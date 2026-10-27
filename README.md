@@ -7,7 +7,7 @@
 ### Vietnamese-engineered smart home ecosystem — from hardware to app.
 
 ACIS designs, builds and operates the full smart home stack in-house: touch switches, central controllers,<br>
-sensors, wireless mesh firmware, the **iHome Pro** app and the cloud behind it.
+sensors, wireless mesh firmware, the **iHome** app and the cloud behind it.
 
 <br>
 
@@ -51,7 +51,7 @@ For more than **14 years**, ACIS has been pioneering wireless smart home technol
 | 🧠 | **Central controllers** | The brain of the home: scenes, schedules and automation across every device. |
 | 📡 | **Sensors** | Motion, presence, door and temperature/humidity sensors that drive lighting, climate and security. |
 | 💡 | **Smart Lighting** | Deep lighting control, launched in alliance with **Rạng Đông**. |
-| 📱 | **iHome Pro app** | One app for every ACIS device — lighting, climate, curtains, cameras, security — anywhere. |
+| 📱 | **iHome app** | One app for every ACIS device — lighting, climate, curtains, cameras, security — anywhere. |
 | 🔗 | **Integrations** | Cameras, Google, voice control, smart locks and other third-party devices. |
 
 ### Core technology
@@ -61,7 +61,7 @@ For more than **14 years**, ACIS has been pioneering wireless smart home technol
 - **Works offline** — schedules keep running when the internet goes down.
 - **Vietnamese cloud &amp; Vietnamese voice control** — built for Vietnamese homes, hosted in Vietnam.
 
-## 📱 iHome Pro
+## 📱 iHome
 
 <table>
   <tr>
@@ -151,7 +151,7 @@ Hơn 14 năm tiên phong công nghệ nhà thông minh không dây tại Việt 
 
 - **Công tắc cảm ứng** mặt kính cường lực siêu mỏng — lắp vừa đế âm tường 220V tiêu chuẩn, không cần đi thêm dây trung tính.
 - **Bộ trung tâm &amp; cảm biến** — kịch bản, hẹn giờ và tự động hóa chạy ngay tại nhà.
-- **Ứng dụng iHome Pro** — điều khiển chiếu sáng, điều hòa, rèm cửa, camera, an ninh trong một ứng dụng.
+- **Ứng dụng iHome** — điều khiển chiếu sáng, điều hòa, rèm cửa, camera, an ninh trong một ứng dụng.
 - **8.000+ dự án** đã hoàn thành tại **34 tỉnh thành**, bảo hành 1 đổi 1 từ 3–5 năm, hotline lắp đặt &amp; sửa chữa 24/7.
 
 👉 Tìm hiểu thêm tại [acis.com.vn](https://acis.com.vn) · Trở thành đối tác: [partner.acis.com.vn](https://partner.acis.com.vn) · Tuyển dụng: [career.acis.com.vn](https://career.acis.com.vn)
